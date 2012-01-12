@@ -5,8 +5,8 @@
 #import <Foundation/Foundation.h>
 
 @interface Station : NSObject {
-	NSString *stationId;                   //A full set of instance variables to store its data
-	NSString *name;
+	NSString *stationId;                   //A full set of instance variables to store its data 
+	NSString *name;                        //A test to see if my commits work on github
 	float latitude;
 	float longitude;
 	float distance;

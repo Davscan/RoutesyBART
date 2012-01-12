@@ -11,7 +11,7 @@
 @interface RootViewController : UITableViewController <BARTPredictionLoaderDelegate,CLLocationManagerDelegate> {
 	
 	NSMutableArray *stations;
-	PredictionTableViewController *predictionController;
+	PredictionTableViewController *predictionController;   //Hello world
 	
 }
 

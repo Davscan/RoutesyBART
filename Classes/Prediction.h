@@ -5,7 +5,7 @@
 #import <Foundation/Foundation.h>
 
 @interface Prediction : NSObject {
-	NSString *destination;
+	NSString *destination;          //and another github change here
 	NSString *estimate;
 }
 
